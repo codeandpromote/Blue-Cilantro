@@ -1,0 +1,6 @@
+{
+  "name": "Blue Cilantro — Grand Cayman",
+  "description": "Minimalist luxury restaurant showcase and curated menu for Blue Cilantro, Chef Vidyadhara Shetty's French, Mediterranean, and Asian fusion dining room on Seven Mile Beach, Grand Cayman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
